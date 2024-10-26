@@ -1,0 +1,35 @@
+#ONE {
+    background-color: black;
+    text-align: center;
+    color: white;
+    text-decoration: underline;
+}
+#two {
+    background-color: aqua;
+}
+#two img {
+    margin-left: 40%;
+    height: 280px;
+}
+#Good {
+    background-color: orangered;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+#SL {
+    background-color: blue;
+}
+#SL img {
+    height: 280px;
+    margin-left: 40%;
+    margin-bottom: 0;
+}
+#Bad {
+    background-color: greenyellow;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+p {
+    text-align: center;
+    color: brown;
+}
